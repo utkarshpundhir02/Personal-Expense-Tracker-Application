@@ -1,0 +1,3 @@
+com\expensetracker\infrastructure\security\filters\JwtAuthenticationFilter.class
+com\expensetracker\infrastructure\security\JwtTokenProvider.class
+com\expensetracker\infrastructure\security\SecurityConfig.class

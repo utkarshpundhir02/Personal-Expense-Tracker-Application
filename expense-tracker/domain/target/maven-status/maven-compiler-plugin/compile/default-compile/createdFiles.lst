@@ -1,0 +1,4 @@
+com\expensetracker\domain\model\Expense.class
+com\expensetracker\domain\model\User.class
+com\expensetracker\domain\repository\UserRepository.class
+com\expensetracker\domain\repository\ExpenseRepository.class
